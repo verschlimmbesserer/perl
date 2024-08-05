@@ -1,0 +1,28 @@
+---
+
+perl_packages:
+  - libencode-perl
+  - libnumber-format-perl
+  - libdbi-perl
+  - libdbd-mysql-perl
+  - libswitch-perl
+  - libcrypt-eksblowfish-perl
+  - libjson-xs-perl
+  - liblwp-protocol-https-perl
+  - libclone-perl
+  - libphp-serialization-perl
+  - libnet-dns-perl
+  - libdatetime-perl
+  - libyaml-perl
+  - libnet-smtp-tls-butmaintained-perl
+  - libmime-perl
+  - libnet-idn-encode-perl
+  - libhttp-daemon-perl
+  - libcgi-pm-perl
+  - libtext-diff-perl
+  - libnet-server-perl
+  - libdata-uuid-perl
+  - libauthen-oath-perl
+  - libconvert-base32-perl
+  - libmime-lite-perl
+  - libuuid-perl
